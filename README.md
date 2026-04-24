@@ -65,13 +65,13 @@ ShopList-App/
 
 ## Cara Menjalankan
 
-1. Clone repo  : `git clone [url-repo-kamu]`
+1. Clone repo  : `git clone (https://github.com/eykelagitha/ShopList-App.git)`
 2. Masuk folder: `cd ShopList-App`
 3. Install deps: `npm install`
 4. Jalankan    : `npx expo start`
 5. Scan QR Code dengan **Expo Go** di HP
 
-> **Expo Snack**: [https://snack.expo.dev/@eykel21/shoplist-app]
+> **Expo Snack**: https://snack.expo.dev/@eykel21/shoplist-app
 
 ---
 
