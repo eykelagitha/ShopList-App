@@ -30,13 +30,13 @@ ShopList adalah aplikasi katalog produk mini yang dibangun dengan React Native &
 ## Screenshot
 
 ### Tampilan Utama (List Produk)
-> <img src="(assets/Tampilan-Utama.jpeg)" width="300"/>
+> <img src="assets/Tampilan-Utama.jpeg" width="300"/>
 
 ### Tampilan Grid (2 Kolom)
-> <img src="(assets/Tampilan-Grid-2-Kolom.jpeg)" width="300"/>
+> <img src="assets/Tampilan-Grid-2-Kolom.jpeg" width="300"/>
 
 ### Tampilan Search — saat ada hasil
-> <img src="(assets/Tampilan-Search.jpeg)" width="300"/>
+> <img src="assets/Tampilan-Search.jpeg" width="300"/>
 
 ### Tampilan Empty State — saat tidak ada hasil
 > <img src="assets/Tampilan-Empty-State.jpeg" width="300"/>
