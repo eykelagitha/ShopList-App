@@ -79,9 +79,9 @@ ShopList-App/
 
 | Teknologi | Versi |
 |-----------|-------|
-| React Native | 0.74+ |
-| Expo | SDK 51 |
-| JavaScript | ES2022 |
+| React Native | 0.85.2 |
+| Expo | 55.0.26 |
+| JavaScript | v24.13.1 |
 
 ---
 
